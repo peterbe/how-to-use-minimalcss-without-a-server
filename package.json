@@ -1,0 +1,12 @@
+{
+  "name": "how-to-use-minimalcss-without-a-server",
+  "description": "How to use minimalcss without a server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Bengtsson",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "minimalcss": "^0.9.0"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules
+yarn-error.log
+
+# Because hopefully this example code works with whatever is the latest
+# when YOU run it.
+yarn.lock
