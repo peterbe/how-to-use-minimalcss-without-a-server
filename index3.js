@@ -17,7 +17,7 @@ const HTML_FILE = "index.html";
   let result;
   try {
     result = await minimalcss.minimize({
-      urls: ["http://0.0.0.0:8080/" + path.basename(HTML_FILE)],
+      urls: ["http://0.0.0.0:8080/" + HTML_FILE],
       browser,
     });
   } catch (err) {
